@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); // Importing Roboto font from Google Fonts
+
+@font-face {
+  font-family: 'La Belle Aurore';
+  src: url('./assets/fonts/LaBelleAurore.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Pacifico';
+  src: url('./assets/fonts/Pacifico-Regular.woff2') format('woff2');
+}
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}

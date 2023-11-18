@@ -1,0 +1,24 @@
+.home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    h1 {
+        font-family: 'Pacifico', sans-serif;
+        text-shadow:
+            -2px -2px 0 #fff,  
+            2px -2px 0 #fff,
+            -2px  2px 0 #fff,
+            2px  2px 0 #fff;
+        text-align: center;
+        font-size: 60px;
+        color: #AF2413;
+      }
+      p {
+        text-align: center;
+        font-size: 36px;
+      }
+
+}
+

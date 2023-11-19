@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/shaymus-website-react/static/css/main.62a8325a.css",
-    "main.js": "/shaymus-website-react/static/js/main.fd290a98.js",
+    "main.js": "/shaymus-website-react/static/js/main.0bc59a29.js",
     "static/js/787.a2569775.chunk.js": "/shaymus-website-react/static/js/787.a2569775.chunk.js",
     "static/media/Pacifico-Regular.woff2": "/shaymus-website-react/static/media/Pacifico-Regular.d75d5ecea13c228ed785.woff2",
     "static/media/LaBelleAurore.woff2": "/shaymus-website-react/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "index.html": "/shaymus-website-react/index.html",
     "main.62a8325a.css.map": "/shaymus-website-react/static/css/main.62a8325a.css.map",
-    "main.fd290a98.js.map": "/shaymus-website-react/static/js/main.fd290a98.js.map",
+    "main.0bc59a29.js.map": "/shaymus-website-react/static/js/main.0bc59a29.js.map",
     "787.a2569775.chunk.js.map": "/shaymus-website-react/static/js/787.a2569775.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62a8325a.css",
-    "static/js/main.fd290a98.js"
+    "static/js/main.0bc59a29.js"
   ]
 }

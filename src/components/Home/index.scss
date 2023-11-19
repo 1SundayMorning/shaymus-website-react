@@ -1,24 +1,43 @@
 .home-page {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 50vh;
-    h1 {
-        font-family: 'Pacifico', sans-serif;
-        text-shadow:
-            -2px -2px 0 #fff,  
-            2px -2px 0 #fff,
-            -2px  2px 0 #fff,
-            2px  2px 0 #fff;
-        text-align: center;
-        font-size: 60px;
-        color: #AF2413;
-      }
-      p {
-        text-align: center;
-        font-size: 36px;
-      }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 75vh;
 
+  h1, h2, p {
+      text-align: center;
+  }
+
+  h1 {
+      font-family: 'Pacifico', sans-serif;
+      text-shadow: -2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff, 2px 2px 0 #fff;
+      font-size: 60px;
+      color: #AF2413;
+  }
+
+  h2 {
+      font-family: 'Roboto', sans-serif;
+      font-size: 36px;
+  }
+
+  p {
+      font-size: 36px;
+  }
+
+  .button-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px; // Use gap to create space between flex items
+
+      a {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+
+          // Icon size
+          font-size: 40px;
+      }
+  }
 }
-

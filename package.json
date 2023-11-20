@@ -1,7 +1,6 @@
 {
   "name": "shaymus-website-react",
   "version": "0.1.0",
-  "homepage": "https://1SundayMorning.github.io/shaymus-website-react",
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.4.2",

@@ -1,5 +1,4 @@
 import "./index.scss";
-// import ContactForm from '../Contact_Form'
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
@@ -21,7 +20,6 @@ const Home = () => {
                     <FontAwesomeIcon icon= {faLinkedin} color="#4d4d4e"/>
                 </a>
             </div>
-            {/* <ContactForm/> */}
         </div>
     );
 }

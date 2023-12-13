@@ -29,7 +29,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      gap: 20px; // Use gap to create space between flex items
+      gap: 40px; // Use gap to create space between flex items
 
       a {
           display: flex;
@@ -37,7 +37,7 @@
           justify-content: center;
 
           // Icon size
-          font-size: 40px;
+          font-size: 80px;
       }
   }
 }
